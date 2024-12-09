@@ -31,7 +31,7 @@ Any additional information goes here
 
 ## Authors
 
-- [@Priyansh_Maheshwari]([https://www.github.com/octokatherine](https://github.com/priyansh-cod)
+- [@Priyansh_Maheshwari](https://github.com/priyansh-cod)
 
 
 ## 🚀 About Me
